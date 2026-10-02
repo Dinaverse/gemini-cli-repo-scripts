@@ -1,6 +1,6 @@
-# 🤖 AI Workflow Automation with Gemini CLI
+# Gemini CLI Repo Scripts
 
-> *Autonomous repository management, documentation generation, and Git orchestration powered by Gemini CLI and custom automation scripts.*
+> Scripts for repository management, documentation generation, and Git automation using Gemini CLI.
 
 ---
 
